@@ -3,7 +3,7 @@ import java.util.List;
 
 public class Banco {
 
-    private String nome;
+    private String nome; 
     private ArrayList<Agencia> agencias;
 
 

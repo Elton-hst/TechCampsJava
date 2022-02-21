@@ -7,7 +7,7 @@ public class Cliente {
     private ArrayList<Double> transacoes;
 
     public Cliente() {
-    }
+    } 
 
     public Cliente(String nome, double transacao) {
         this.nome = nome;
